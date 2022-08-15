@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **waghaniket8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dHZ1bYZq3zvw7FvJdo9d5bsuQ-_NpKw4vO6V4NuMed0/edit?usp=sharing](https://docs.google.com/document/d/1dHZ1bYZq3zvw7FvJdo9d5bsuQ-_NpKw4vO6V4NuMed0/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1dHZ1bYZq3zvw7FvJdo9d5bsuQ-_NpKw4vO6V4NuMed0/edit?usp=sharing](https://docs.google.com/document/d/1dHZ1bYZq3zvw7FvJdo9d5bsuQ-_NpKw4vO6V4NuMed0/edit?us=sharing)
 
 - ⚡ Fun fact **Coding**
 
