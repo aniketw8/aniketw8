@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aniket Wagh</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketw8&label=Profile%20views&color=0e75b6&style=flat" alt="aniketw8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketw8" alt="aniketw8" /></a> </p>
 
-- 🔭 I’m currently working on Java **Online Cab Booking Application**
+- 🔭 I’m currently working at **WeRize**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working as **Backend Developer**
 
 - 👨‍💻 All of my projects are available at [https://adorable-gnome-951bfa.netlify.app/](https://adorable-gnome-951bfa.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@aniket_fp01_185](https://medium.com/@aniket_fp01_185)
 
-- 💬 Ask me about **Java, Hibernate, Spring boot, Mysql**
+- 💬 Ask me about **Java, Hibernate, Spring boot, Mysql, PostgreSql, AWS, GCP**
 
 - 📫 How to reach me **waghaniket8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dHZ1bYZq3zvw7FvJdo9d5bsuQ-_NpKw4vO6V4NuMed0/edit?usp=sharing](https://docs.google.com/document/d/1dHZ1bYZq3zvw7FvJdo9d5bsuQ-_NpKw4vO6V4NuMed0/edit?us=sharing)
 
 - ⚡ Fun fact **Coding**
 
