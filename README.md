@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently working as **Backend Developer**
 
-- 👨‍💻 All of my projects are available at [https://adorable-gnome-951bfa.netlify.app/](https://adorable-gnome-951bfa.netlify.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@aniket_fp01_185](https://medium.com/@aniket_fp01_185)
 
 - 💬 Ask me about **Java, Hibernate, Spring boot, Mysql, PostgreSql, AWS, GCP**
